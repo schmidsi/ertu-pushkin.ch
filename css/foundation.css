@@ -1894,9 +1894,9 @@ meta.foundation-mq-topbar {
 
 button, .button {
   cursor: pointer;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-  font-weight: normal;
-  line-height: normal;
+  font-family: "raleway", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 300;
   margin: 0 0 1.25rem;
   position: relative;
   text-decoration: none;
